@@ -23,7 +23,7 @@ const Index = () => {
           <Button 
             variant="outline"
             className="border-keez-teal text-keez-teal hover:bg-keez-lightBlue/20 text-lg px-6 py-6 h-auto"
-            onClick={() => window.open('https://lovable.dev', '_blank')}
+            onClick={() => window.open('', '_blank')}
           >
             Learn More
           </Button>
